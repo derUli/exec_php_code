@@ -3,7 +3,7 @@ Dieses Modul ermöglicht, Codeblöcke die in highlight_php_code angelegt wurden 
 
 ## Installation
 1. Installation Sie highlight_php_code
-2. Installieren Sie dieses exec_php_code
+2. Installieren Sie xec_php_code
 3. Fügen Sie folgende Variable zu der Datei cms-config.php hinzu
 var $executable_php_codes = array();
 
